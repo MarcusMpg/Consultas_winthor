@@ -1,2 +1,2 @@
 # Consultas_winthor
-consultas personalizadas para winhtor
+consultas personalizadas para winthor
