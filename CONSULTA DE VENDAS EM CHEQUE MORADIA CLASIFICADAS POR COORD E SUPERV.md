@@ -1,3 +1,4 @@
+```sql
 SELECT 
     I.NUMPED,
     C.DATA,
@@ -28,3 +29,5 @@ WHERE
     AND C.CODUSUR IN (349, 377, 71, 379, 383, 330)
 ORDER BY 
     I.NUMPED DESC
+
+```
