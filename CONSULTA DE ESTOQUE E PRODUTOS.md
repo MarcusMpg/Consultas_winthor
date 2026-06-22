@@ -1,3 +1,4 @@
+```sql
 SELECT
   P.CODPROD AS "Código do Produto",
   P.DESCRICAO AS "Nome do Produto",
@@ -14,3 +15,4 @@ FROM
   JOIN PCSECAO S ON P.CODSEC = S.CODSEC
 WHERE
   E.CODFILIAL <> '98'
+```
